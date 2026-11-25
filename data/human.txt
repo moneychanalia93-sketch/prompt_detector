@@ -1,0 +1,101 @@
+how do i reverse a string in python
+pls help my code keeps crashing and idk why
+write me a poem about my cat she is orange and fat
+whats the capital of australia
+can u explain recursion like im 5
+fix this: for i in range(10) print(i)
+need a recipe for dinner, got chicken rice and some old broccoli
+why is my sourdough so dense lol
+translate "where is the train station" to spanish
+gonna visit tokyo in march, what should i see
+what does cors error mean
+make this email sound less angry: hey you never replied to my last 3 messages
+thx! now can you make it shorter
+explain blockchain
+im so bored give me a game to play with my sister in the car
+how to center a div
+my boss keeps scheduling meetings at 5pm what do i say
+python list vs tuple??
+write a haiku about mondays
+what is the difference between affect and effect, i always mix them up
+help me name my puppy, hes a brown lab and super chill
+summarize the plot of hamlet in 3 sentences
+sql query to get the 5 highest paid employees
+is it ok to eat eggs past the date
+wanna learn guitar but have no time. any tips
+tell me a joke about programmers
+how many cups in a liter
+git says detached head what did i do wrong
+write a birthday message for my grandma, she turns 90 next week and loves gardening
+what's 15% of 240
+ugh my wifi keeps dropping every evening, how do i debug that
+essay on climate change 500 words due tomorrow help
+c++ segfault when i push_back in a loop, code below
+what rhymes with orange lol
+can you check my grammar: me and him goes to the store yesterday
+best way to learn calculus fast?
+how do i get red wine out of a white couch
+give me 10 names for a coffee shop
+whats a good gift for my dad he likes fishing and old westerns
+convert 72 fahrenheit to celsius
+explain how a bill becomes a law but make it funny
+i need a cover letter for a barista job, i have 2 yrs experience at starbucks
+what is a monad, for real, in plain words
+js: why does [] + {} give weird output
+tips for first marathon?
+rewrite this so it sounds more professional pls: yo team the deploy is borked, fixing it now
+how long to boil eggs
+my cat keeps throwing up what do i do
+create a workout plan for me, 3 days a week, no gym just dumbbells
+what happened in 1066
+Write a limerick about a goat who loves jazz.
+I'm trying to figure out how to split a bill between four people when one person didn't drink. Can you help?
+Could you explain what an API is? I keep hearing the word at work and nodding along.
+I have an interview on Friday for a data analyst job and I'm terrified. What should I practice?
+Can you help me write a text to my landlord? The heater has been broken for two weeks now.
+what's the difference between a virus and bacteria
+why do my plants keep dying even tho i water them
+python pandas drop duplicates but keep the last one
+make a meal plan for a week, im vegetarian and broke
+how do i tell my roommate to stop eating my food
+write a short story where a robot learns to bake bread
+explain the monty hall problem again, i still dont get it
+help!! excel formula for counting cells that are not blank
+whats the best way to memorize a speech
+list some sci-fi books like dune
+Is it normal for a laptop battery to drop to 50% in an hour? Mine does that.
+how to say thank you in japanese
+dumb question but what is a REST api
+i want to start a podcast about true crime where do i begin
+fix my resume summary: hardworking person looking for job in sales
+what year did the berlin wall fall
+help me write a toast for my brother's wedding, he's marrying his college girlfriend
+regex for email, quick one
+how come the moon looks bigger at the horizon
+rust borrow checker error "cannot borrow as mutable" help
+suggest a name for my band, we play sad punk
+tell me about the roman empire but short
+Can you write a SQL join example? I always forget the syntax.
+whats the weather like in seattle in october
+how do i politely decline a wedding invite
+ok so basically i have a react app and the state wont update after i click the button, any ideas?
+what is inflation
+make a grocery list for tacos
+How do I get better at chess? I'm stuck around 900.
+can you proofread: their going to the park tomorow and bringing there dog
+need ideas for a 7 year olds birthday party, budget is low
+explain photosynthesis
+what to do if i miss a flight
+do u know any good podcasts for learning french
+Write a bash one-liner to count lines in all .txt files.
+my python script is slow, 2 million rows in a loop. how to speed up
+so what's the deal with quantum computing, is it real yet
+how do u pronounce quinoa
+help me decide between a mac and a thinkpad, i do mostly coding and some video editing
+write a sad song about losing my keys
+idk what to cook tonight
+can you make this paragraph flow better, its for my college app
+how does a vpn work
+a prompt for midjourney: foggy forest at dawn, cinematic
+why is the sky blue
+write a funny out of office message
